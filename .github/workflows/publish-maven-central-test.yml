@@ -2,6 +2,8 @@
 # Standalone, manually-triggered workflow to test publishing the
 # NeuroID SDK to Maven Central WITHOUT creating a GitHub release.
 # Intentionally kept separate from release.yml.
+
+# remove after testing complete and integrate with release.yml
 # ******************************************************************
 
 name: Publish to Maven Central (Test)
